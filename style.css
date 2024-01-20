@@ -5,7 +5,6 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: 'Noto Serif', serif;
 }
 body{
     background-color: #ffffff;
@@ -72,6 +71,7 @@ main{
  
     font-size: 50px;
     font-weight: 900;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
   
 }
 .Evan img{
@@ -109,7 +109,8 @@ main{
 .bg-btn1 {
     margin-right: 20px;
     border:none;
-    background-image: linear-gradient(red, yellow);
+    background-image: linear-gradient(violet
+    , purple);
 }
 .bg-btn2 {
     color: black;
